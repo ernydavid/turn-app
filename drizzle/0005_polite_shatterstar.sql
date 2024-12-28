@@ -1,0 +1,1 @@
+ALTER TABLE "turns" ALTER COLUMN "token" SET DEFAULT uuid_generate_v4();

@@ -1,0 +1,1 @@
+ALTER TABLE "warehouse" ALTER COLUMN "clientId" SET DATA TYPE integer;
